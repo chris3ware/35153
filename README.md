@@ -16,11 +16,11 @@ produces:
 [aws](https://redirect.github.com/{{ lookup (split packageName '/') 0 }}/terraform-provider-{{ lookup (split packageName '/') 1 }}) | required_provider | minor | `~> 5.90` -> `~> 5.93`
 ```
 
-See #1
+See [#1](https://github.com/3ware/35153/pull/1)
 
 ## Expected behavior
 
-I would like the `sourceUrl to be: 
+I would like the `sourceUrl` to be: 
 
 https://github.com/hashicorp/terraform-provider-aws
 
