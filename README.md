@@ -2,7 +2,7 @@
 
 ## Current behavior
 
-sourceUrl is not rendered from template.
+`sourceUrl` is not rendered from template.
 
 This configuration:
 
