@@ -1,8 +1,6 @@
-# minimal-reproduction-template
+# 35153
 
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+Reproduction for renovate discussion: https://github.com/renovatebot/renovate/discussions/35153
 
 ## Current behavior
 
